@@ -1,0 +1,9 @@
+c:\Users\William\source\repos\VEClient\VEChat\bin\Debug\VEChat.exe.config
+c:\Users\William\source\repos\VEClient\VEChat\bin\Debug\VEChat.exe
+c:\Users\William\source\repos\VEClient\VEChat\bin\Debug\VEChat.pdb
+c:\Users\William\source\repos\VEClient\VEChat\obj\Debug\VEChat.csproj.CoreCompileInputs.cache
+c:\Users\William\source\repos\VEClient\VEChat\obj\Debug\VEChat.exe
+c:\Users\William\source\repos\VEClient\VEChat\obj\Debug\VEChat.pdb
+c:\Users\William\source\repos\VEClient\VEChat\obj\Debug\VEChat.csprojResolveAssemblyReference.cache
+C:\Users\William\source\repos\VEClient\VEChat\bin\Debug\AsyncIO.dll
+C:\Users\William\source\repos\VEClient\VEChat\bin\Debug\NetMQ.dll

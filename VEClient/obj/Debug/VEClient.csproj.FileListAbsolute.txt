@@ -1,0 +1,9 @@
+c:\users\william\source\repos\VEClient\VEClient\bin\Debug\VEClient.exe.config
+c:\users\william\source\repos\VEClient\VEClient\bin\Debug\VEClient.exe
+c:\users\william\source\repos\VEClient\VEClient\bin\Debug\VEClient.pdb
+c:\users\william\source\repos\VEClient\VEClient\obj\Debug\VEClient.csprojResolveAssemblyReference.cache
+c:\users\william\source\repos\VEClient\VEClient\obj\Debug\VEClient.csproj.CoreCompileInputs.cache
+c:\users\william\source\repos\VEClient\VEClient\obj\Debug\VEClient.exe
+c:\users\william\source\repos\VEClient\VEClient\obj\Debug\VEClient.pdb
+C:\Users\William\source\repos\VEClient\VEClient\bin\Debug\AsyncIO.dll
+C:\Users\William\source\repos\VEClient\VEClient\bin\Debug\NetMQ.dll
